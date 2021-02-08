@@ -1,0 +1,7 @@
+F:\DotNet 2021\ConsoleAssignments\Customer\Customer\obj\Debug\Customer.csprojAssemblyReference.cache
+F:\DotNet 2021\ConsoleAssignments\Customer\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+F:\DotNet 2021\ConsoleAssignments\Customer\Customer\bin\Debug\Customer.exe.config
+F:\DotNet 2021\ConsoleAssignments\Customer\Customer\bin\Debug\Customer.exe
+F:\DotNet 2021\ConsoleAssignments\Customer\Customer\bin\Debug\Customer.pdb
+F:\DotNet 2021\ConsoleAssignments\Customer\Customer\obj\Debug\Customer.exe
+F:\DotNet 2021\ConsoleAssignments\Customer\Customer\obj\Debug\Customer.pdb

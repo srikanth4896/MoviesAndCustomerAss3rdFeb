@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="WFA3DotNet" Class="EmployeeTableLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-3BBTJ3JD;Initial Catalog=WFA3DotNet;Integrated Security=True" SettingsObjectName="LinQToSqlWithStoredProcedure.Properties.Settings" SettingsPropertyName="WFA3DotNetConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.EmployeeTab" Member="EmployeeTabs">
+    <Type Name="EmployeeTab">
+      <Column Name="EmpId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EmpName" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Salary" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DeptNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.sp_DeleteEmployee" Method="sp_DeleteEmployee">
+    <Parameter Name="empid" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.sp_UpdateEmployee" Method="sp_UpdateEmployee">
+    <Parameter Name="EmpId" Parameter="empId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="EmpName" Parameter="empName" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Salary" Parameter="salary" Type="System.Double" DbType="Float" />
+    <Parameter Name="DeptNo" Parameter="deptNo" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.sp_InsertEmployee" Method="sp_InsertEmployee">
+    <Parameter Name="EmpName" Parameter="empName" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Salary" Parameter="salary" Type="System.Double" DbType="Float" />
+    <Parameter Name="DeptNo" Parameter="deptNo" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

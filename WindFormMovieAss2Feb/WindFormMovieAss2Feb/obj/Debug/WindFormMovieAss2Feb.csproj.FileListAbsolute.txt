@@ -1,0 +1,10 @@
+F:\DotNet 2021\ConsoleAssignments\WindFormMovieAss2Feb\WindFormMovieAss2Feb\bin\Debug\WindFormMovieAss2Feb.exe.config
+F:\DotNet 2021\ConsoleAssignments\WindFormMovieAss2Feb\WindFormMovieAss2Feb\bin\Debug\WindFormMovieAss2Feb.exe
+F:\DotNet 2021\ConsoleAssignments\WindFormMovieAss2Feb\WindFormMovieAss2Feb\bin\Debug\WindFormMovieAss2Feb.pdb
+F:\DotNet 2021\ConsoleAssignments\WindFormMovieAss2Feb\WindFormMovieAss2Feb\obj\Debug\WindFormMovieAss2Feb.csprojAssemblyReference.cache
+F:\DotNet 2021\ConsoleAssignments\WindFormMovieAss2Feb\WindFormMovieAss2Feb\obj\Debug\WindFormMovieAss2Feb.Form1.resources
+F:\DotNet 2021\ConsoleAssignments\WindFormMovieAss2Feb\WindFormMovieAss2Feb\obj\Debug\WindFormMovieAss2Feb.Properties.Resources.resources
+F:\DotNet 2021\ConsoleAssignments\WindFormMovieAss2Feb\WindFormMovieAss2Feb\obj\Debug\WindFormMovieAss2Feb.csproj.GenerateResource.cache
+F:\DotNet 2021\ConsoleAssignments\WindFormMovieAss2Feb\WindFormMovieAss2Feb\obj\Debug\WindFormMovieAss2Feb.csproj.CoreCompileInputs.cache
+F:\DotNet 2021\ConsoleAssignments\WindFormMovieAss2Feb\WindFormMovieAss2Feb\obj\Debug\WindFormMovieAss2Feb.exe
+F:\DotNet 2021\ConsoleAssignments\WindFormMovieAss2Feb\WindFormMovieAss2Feb\obj\Debug\WindFormMovieAss2Feb.pdb
